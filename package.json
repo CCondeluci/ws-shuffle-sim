@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@basementuniverse/stats": "^1.1.1",
+    "nodeplotlib": "^1.1.2"
+  }
+}
